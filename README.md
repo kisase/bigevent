@@ -1,0 +1,4 @@
+本项目运用了vue3+springboot3框架
+在vue前端架构中运用有pinia数据持久化+element plus UI框架
+springboot后端架构中引用mybatis依赖等
+在springboot中图片上传地址为本地D盘(用的是Windows)，并开放了的一个本地的路径映射来访问图片，没有使用云存储。
